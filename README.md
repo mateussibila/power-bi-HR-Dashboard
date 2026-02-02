@@ -87,7 +87,8 @@ power-bi-HR-Dashboard/
 ├── README.md                                       # Project overview and documentation
 ├── datasets/                                       # Raw datasets used in the analysis
 │   ├── people_employment_history.csv               # Employment history and job-related data
-│   └── people_data.csv                             # Employee demographic information
+│   ├── people_data.csv                             # Employee demographic information
+│   └── Dates.xlsx                                  # Auxiliary file containing date information
 │
 ├── screenshots/                                    # Dashboard preview images
 │   ├── xxxxxxxxxxxxxxxxxx.png                      # xxxxxxxxxxxxxxxxxxxx
