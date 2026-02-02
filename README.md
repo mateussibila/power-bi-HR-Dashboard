@@ -25,14 +25,13 @@ It addresses key business questions such as:
 
 ## 📊 Data
 
-The project is based on HR datasets containing information about employees, including:
+The project is based on the following datasets:
 
-- Employee demographics  
-- Employment dates (hire and exit)  
-- Departments and job roles  
-- Employment status and organizational structure  
+- `people_data.csv`  
+- `people_employment_history.csv`
 
-These datasets allow the analysis of workforce composition, hiring patterns, retention levels, and turnover behavior.
+These files contain employee demographics, employment history, departmental and job role information, and employment status.  
+They support analysis of workforce composition, hiring trends, retention, and turnover patterns.
 
 ---
 
